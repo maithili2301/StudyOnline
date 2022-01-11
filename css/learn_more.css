@@ -1,0 +1,48 @@
+body{
+    color: black;
+   
+    
+}
+.content{
+    background-color: rgb(245, 248, 250);
+    padding: 18px;
+}
+.content p{
+     font-size: 15px;
+}
+.content h2{
+    font-size: 25px;
+}
+.content .head-h1{
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
+ .content .notes img{
+     align-items: center;
+     text-align: center;
+     padding: 15px;
+     align-items: center;
+ }
+ .mid-p ol{
+    font-size: 15px;
+ }
+ .mid-p ul{
+    font-size: 15px;
+ }
+ .ol-p{
+    font-size: 15px;
+ }
+ .button-sec{
+     padding: 30px;
+     /* width: auto; */
+     display: block;
+ }
+ .button-sec .button-Quiz{
+       align-items: flex-end;
+       margin-left: 690px;
+       text-align: right;
+ }
+ .btn:hover{
+     letter-spacing: normal;
+ }

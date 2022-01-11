@@ -1,0 +1,64 @@
+Java Programming Language
+Java Is One Of The Most Popular And Widely Used Programming Languages. Java Has Been One Of The Most Popular Programming Languages For Many Years.
+ Java Is Object Oriented. However, It Is Not Considered As Pure Object-Oriented As It Provides Support For Primitive Data Types (Like Int, Char, Etc)
+ The Java Codes Are First Compiled Into Byte Code (Machine-Independent Code). Then The Byte Code Runs On Java Virtual Machine (JVM) Regardless Of The
+ Underlying Architecture. Java Syntax Is Similar To C/C++. But Java Does Not Provide Low-Level Programming Functionalities Like Pointers. Also, Java Codes Are
+ Always Written In The Form Of Classes And Objects. Java Is Used In All Kinds Of Applications Like Mobile Applications (Android Is Java-Based), Desktop Applications,
+ Web Applications, Client-Server Applications, Enterprise Applications, And Many More. When Compared With C++, Java Codes Are Generally More Maintainable Because 
+Java Does Not Allow Many Things Which May Lead To Bad/Inefficient Programming If Used Incorrectly. For Example, Non-Primitives Are Always References In Java. So We 
+Cannot Pass Large Objects (Like We Can Do In C++) To Functions, We Always Pass References In Java. One More Example, Since There Are No Pointers, Bad Memory Access 
+Is Also Not Possible. When Compared With Python, Java Kind Of Fits Between C++ And Python. 
+The Programs Are Written In Java Typically Run Faster Than Corresponding Python Programs And Slower Than C++. Like C++, Java Does Static Type Checking,
+ But Python Does Not. Simple Hello World Program : 
+// A Java Program To Print "Hello World"
+ Public Class GFG { 
+Public Static Void Main(String Args[])
+ { System.Out.Println("Hello World");
+ } }
+
+Variables In Java
+Variable In Java Is A Data Container That Saves The Data Values During Java Program Execution. Every Variable Is Assigned A Data Type That Designates The Type
+ And Quantity Of Value It Can Hold. Variable Is A Memory Location Name Of The Data.
+ A Variable Is A Name Given To A Memory Location. It Is The Basic Unit Of Storage In A Program.  Java Foundation And Collections Concepts With The Fundamentals
+ Of Java And Java Collections Course At A Student-Friendly Price And Become Industry Ready. To Complete Your Preparation From Learning A Language To DS Algo 
+And Many More, Please Refer Complete Interview Preparation Course. The Value Stored In A Variable Can Be Changed During Program Execution. 
+A Variable Is Only A Name Given To A Memory Location, All The Operations Done On The Variable Effects That Memory Location. 
+In Java, All The Variables Must Be Declared Before Use. How To Declare Variables? We Can Declare Variables In Java As Pictorially Depicted Below As A Visual Aid.
+
+
+From The Image, It Can Be Easily Perceived That While Declaring A Variable, We Need To Take Care Of Two Things That Are:
+
+Datatype: Type Of Data That Can Be Stored In This Variable.
+Dataname: Name Was Given To The Variable.
+In This Way, A Name Can Only Be Given To A Memory Location. It Can Be Assigned Values In Two Ways:
+
+Variable Initialization
+Assigning Value By Taking Input
+How To Initialize Variables?
+
+It Can Be Perceived With The Help Of 3 Components That Are As Follows:
+
+Datatype: Type Of Data That Can Be Stored In This Variable.
+Variable_name: Name Given To The Variable.
+Value: It Is The Initial Value Stored In The Variable.
+
+Object Oriented Programming (OOPs) Concept In Java
+As The Name Suggests, Object-Oriented Programming Or OOPs Refers To Languages That Uses Objects In Programming. Object-Oriented Programming Aims To Implement 
+Real-World Entities Like Inheritance, Hiding, Polymorphism Etc In Programming. The Main Aim Of OOP Is To Bind Together The Data And The Functions That
+ Operate On Them So That No Other Part Of The Code Can Access This Data Except That Function. Let Us Do Discuss Pre-Requisite By Polishing Concepts Of Methods
+ Declaration And Passing. Starting Off With The Method Declaration, It Consists Of Six Components: Attention Reader! Don’t Stop Learning Now. Get Hold Of All
+ The Important Java Foundation And Collections Concepts With The Fundamentals Of Java And Java Collections Course At A Student-Friendly Price And Become Industry 
+Ready. To Complete Your Preparation From Learning A Language To DS Algo And Many More, Please Refer Complete Interview Preparation Course. 
+Access Modifier: Defines Access Type Of The Method I.E. From Where It Can Be Accessed In Your Application. In Java, There 4 Type Of The Access Specifiers.
+ Public: Accessible In All Class In Your Application. Protected: Accessible Within The Package In Which It Is Defined And In Its Subclass(Es)(Including Subclasses
+ Declared Outside The Package) Private: Accessible Only Within The Class In Which It Is Defined. Default (Declared/Defined Without Using Any Modifier): Accessible
+ Within Same Class And Package Within Which Its Class Is Defined. The Return Type: The Data Type Of The Value Returned By The Method Or Void If Does Not Return
+ A Value. Method Name: The Rules For Field Names Apply To Method Names As Well, But The Convention Is A Little Different. Parameter List: Comma Separated List
+ Of The Input Parameters Are Defined, Preceded With Their Data Type, Within The Enclosed Parenthesis. If There Are No Parameters, You Must Use
+ Empty Parentheses (). Exception List: The Exceptions You Expect By The Method Can Throw, You Can Specify These Exception(S).
+ Method Body: It Is Enclosed Between Braces. The Code You Need To Be Executed To Perform Your Intended Operations. Message Passing: Objects Communicate With One
+ Another By Sending And Receiving Information To Each Other. A Message For An Object Is A Request For Execution Of A Procedure And Therefore Will Invoke
+ A Function In The Receiving Object That Generates The Desired Results. Message Passing Involves Specifying The Name Of The Object, The Name Of The Function And 
+The Information To Be Sent. Now With Basic Prerequisite To Step Learning 4 Pillar Of OOPS Is As Follows. Let Us Start With Learning About The Different
+ Characteristics Of An Object-Oriented Programming Language
+
